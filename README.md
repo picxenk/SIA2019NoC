@@ -36,6 +36,7 @@
  * [수업 전 익명설문에 대한 학생들의 응답결과](https://docs.google.com/forms/d/e/1FAIpQLSdcYg08V_ULQWzmFRwuJV8Xlydua8N1P7ZtOcNUJQCmucODeg/viewanalytics)
 
 ### #02 : 
+ * [관찰연습](https://drive.google.com/open?id=1oFSEH-9C54FsE30wB3IMesZjrcjTpFt1)
  
 ----
 
