@@ -22,22 +22,23 @@
  * https://p5js.org/
  * [Kadenze : Nature of Code](https://www.kadenze.com/courses/the-nature-of-code-ii/info)
  * [YouTube : The Coding Train](https://www.youtube.com/user/shiffman)
- 
+
 ### 수업의 도구
  * 구글 이메일 계정을 만들어주세요.
  * https://editor.p5js.org : 구글 계정으로 로그인합니다.
  * [구글드라이브 수업폴더](https://drive.google.com/open?id=1E2ORI-ujgjlqHDTYcnbF7uus0guqGb9l)
- 
+
 ----
 
 ## 주차별 자료
 
 ### #01 : 오리엔테이션
  * [수업 전 익명설문에 대한 학생들의 응답결과](https://docs.google.com/forms/d/e/1FAIpQLSdcYg08V_ULQWzmFRwuJV8Xlydua8N1P7ZtOcNUJQCmucODeg/viewanalytics)
+ * [과제 : 수업을 위한 준비](homework.md)
 
-### #02 : 
+### #02 :
  * [관찰연습](https://drive.google.com/open?id=1oFSEH-9C54FsE30wB3IMesZjrcjTpFt1)
- 
+
 ----
 
-[페이지 수정](https://github.com/picxenk/SIA2019NoC/edit/master/README.md) 
+[페이지 수정](https://github.com/picxenk/SIA2019NoC/edit/master/README.md)
