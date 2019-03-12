@@ -13,7 +13,7 @@
 
 ### 수업의 목표
 
- * p5.js기반으로자연의현상을컴퓨팅으로모델링하는방법을이해하고구현할수있다.
+ * p5.js기반으로 자연의 현상을 컴퓨팅으로 모델링하는 방법을 이해하고 구현할 수 있다.
  * 기술매체의 오픈소스 문화를 이해하고 자신의 창작과정에 활용할 수 있다.
  * 빠른 기술 변화 시대에서 스스로 방향을 잡고 학습할 수 있는 ‘배우는 법을 배우기 (Learning to learn)’를 훈련한다.
 
@@ -23,6 +23,12 @@
  
  * [Kadenze : Nature of Code](https://www.kadenze.com/courses/the-nature-of-code-ii/info)
  * [YouTube : The Coding Train](https://www.youtube.com/user/shiffman)
+ 
+----
+
+### 주차별 자료
+#### #01 : 오리엔테이션
+#### #02 : 
  
 ----
 
