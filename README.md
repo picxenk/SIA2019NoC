@@ -24,10 +24,17 @@
  * [Kadenze : Nature of Code](https://www.kadenze.com/courses/the-nature-of-code-ii/info)
  * [YouTube : The Coding Train](https://www.youtube.com/user/shiffman)
  
+### 수업의 도구
+ * 구글 이메일 계정을 만들어주세요.
+ * https://editor.p5js.org : 구글 계정으로 로그인합니다.
+ * [구글드라이브 수업폴더](https://drive.google.com/open?id=1E2ORI-ujgjlqHDTYcnbF7uus0guqGb9l)
+ 
 ----
 
 ## 주차별 자료
+
 ### #01 : 오리엔테이션
+
 ### #02 : 
  
 ----
