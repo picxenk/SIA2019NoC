@@ -20,7 +20,6 @@
 ### 참고문헌
  * https://natureofcode.com/
  * https://p5js.org/
- 
  * [Kadenze : Nature of Code](https://www.kadenze.com/courses/the-nature-of-code-ii/info)
  * [YouTube : The Coding Train](https://www.youtube.com/user/shiffman)
  
@@ -34,6 +33,7 @@
 ## 주차별 자료
 
 ### #01 : 오리엔테이션
+ * [수업 전 익명설문에 대한 학생들의 응답결과](https://docs.google.com/forms/d/e/1FAIpQLSdcYg08V_ULQWzmFRwuJV8Xlydua8N1P7ZtOcNUJQCmucODeg/viewanalytics)
 
 ### #02 : 
  
