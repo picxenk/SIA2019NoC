@@ -22,6 +22,11 @@
  * https://p5js.org/
  * [Kadenze : Nature of Code](https://www.kadenze.com/courses/the-nature-of-code-ii/info)
  * [YouTube : The Coding Train](https://www.youtube.com/user/shiffman)
+ * Learning to Learn을 위한 참고문헌
+  * 이너게임 (The Inner Game of Work)
+  * 학습은 어떻게 이루어지나 (How Learning Works)
+  * 어떻게 공부할 것인가 (Make It Stick)
+  * 마음챙김 학습혁명 (The Power of Mindful Learning)
 
 ### 수업의 도구
  * 구글 이메일 계정을 만들어주세요.
