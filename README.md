@@ -23,10 +23,10 @@
  * [Kadenze : Nature of Code](https://www.kadenze.com/courses/the-nature-of-code-ii/info)
  * [YouTube : The Coding Train](https://www.youtube.com/user/shiffman)
  * Learning to Learn을 위한 참고문헌
-  * 이너게임 (The Inner Game of Work)
-  * 학습은 어떻게 이루어지나 (How Learning Works)
-  * 어떻게 공부할 것인가 (Make It Stick)
-  * 마음챙김 학습혁명 (The Power of Mindful Learning)
+   * 이너게임 (The Inner Game of Work)
+   * 학습은 어떻게 이루어지나 (How Learning Works)
+   * 어떻게 공부할 것인가 (Make It Stick)
+   * 마음챙김 학습혁명 (The Power of Mindful Learning)
 
 ### 수업의 도구
  * 구글 이메일 계정을 만들어주세요.
@@ -42,9 +42,10 @@
  * [과제 : 수업을 위한 준비](homework.md)
 
 ### #02 :
- * [관찰연습](https://drive.google.com/open?id=1oFSEH-9C54FsE30wB3IMesZjrcjTpFt1)
+ * [관찰연습](https://drive.google.com/open?id=1oFSEH-9C54FsE30wB3IMesZjrcjTpFt1) : 이번 수업엔 안했어요.
  * [Coding Train : 10PRINT in p5.js](https://youtu.be/bEyTZ5ZZxZs)
- * [p5.js 10print](https://editor.p5js.org/picxenk@gmail.com/sketches/SVxLX99my)
+   * [10PRINT p5.js 예제코드](https://editor.p5js.org/picxenk@gmail.com/sketches/SVxLX99my)
+   * [10PRINT 책은 오픈소스로 누구나 내려받을 수 있습니다.](http://10print.org/)
 
 ----
 
