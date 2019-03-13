@@ -44,6 +44,7 @@
 ### #02 :
  * [관찰연습](https://drive.google.com/open?id=1oFSEH-9C54FsE30wB3IMesZjrcjTpFt1)
  * [Coding Train : 10PRINT in p5.js](https://youtu.be/bEyTZ5ZZxZs)
+ * [p5.js 10print](https://editor.p5js.org/picxenk@gmail.com/sketches/SVxLX99my)
 
 ----
 
