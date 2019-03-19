@@ -18,6 +18,11 @@
 ### 03 : Kadenze 세션1 공부
  * [Kadenze : Nature of Code](https://www.kadenze.com/courses/the-nature-of-code-ii/sessions)의 세션1을 공부합니다.
  * (마지막을 제외한) 총 9개의 영상에 대해서 공부하고, 회고합니다.
+ * 다음의 개념들을 이해해보려고 노력하세요.
+   * Object란?
+   * Vector의 개념과 용도
+   * 속도와 가속도
+   * Random vs. Noise
  * 회고의 방식은 자유지만 아래의 내용들을 고려해서 작성해보세요.
    * 무엇을 했는지 / 어떤걸 시도했는지 (사실)
    * 어떤 느낌인지 / 어려운 점은? (감정)
