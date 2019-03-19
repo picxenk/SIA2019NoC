@@ -15,3 +15,4 @@
  * [Generative Gestaltung](http://www.generative-gestaltung.de/2/)
    * P_2_1_1 01 ~ 03은 지난 주 10PRINT의 응용입니다.
    * 다음의 개념들을 복습합시다. : 반복(for), 조건(if), 마우스 상호작용, 난수(random)의 사용
+ * [구글드라이브 수업폴더](https://drive.google.com/open?id=1E2ORI-ujgjlqHDTYcnbF7uus0guqGb9l)에 저널링 연습합니다.
