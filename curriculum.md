@@ -12,3 +12,6 @@
 
 ### #03 : 과제에 대한 회고, JS 연습 2
  * [과제 경험 공유](https://docs.google.com/spreadsheets/d/1bpptE2GizWWauTpGBHzu7lhneMTXwhxOtnj9eo5JF6Y/edit?usp=sharing)
+ * [Generative Gestaltung](http://www.generative-gestaltung.de/2/)
+   * P_2_1_1 01 ~ 03은 지난 주 10PRINT의 응용입니다.
+   * 다음의 개념들을 복습합시다. : 반복(for), 조건(if), 마우스 상호작용, 난수(random)의 사용
