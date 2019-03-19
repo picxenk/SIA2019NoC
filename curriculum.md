@@ -16,3 +16,6 @@
    * P_2_1_1 01 ~ 03은 지난 주 10PRINT의 응용입니다.
    * 다음의 개념들을 복습합시다. : 반복(for), 조건(if), 마우스 상호작용, 난수(random)의 사용
  * [구글드라이브 수업폴더](https://drive.google.com/open?id=1E2ORI-ujgjlqHDTYcnbF7uus0guqGb9l)에 저널링 연습합니다.
+ * JavaScript 참고자료
+   * [MDN 다시 소개하는 자바스크립트](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+   * [Learn ES2015 (ES6)](https://babeljs.io/docs/en/learn)
