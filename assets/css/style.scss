@@ -2,26 +2,3 @@
 ---
 
 @import "{{ site.theme }}";
-
-body {
-  padding:10px 50px 0 0;
-  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
-	font-size: 18px;
-	color: #232323;
-	background-color: #FBFAF7;
-	margin: 0;
-	line-height: 1.8em;
-	// -webkit-font-smoothing: antialiased;
-
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color:#000000;
-  margin:36px 0 10px;
-}
-
-a {
-  color:#0000C9;
-  font-weight:200;
-  text-decoration:none;
-}
