@@ -19,3 +19,16 @@
  * JavaScript 참고자료
    * [MDN 다시 소개하는 자바스크립트](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
    * [Learn ES2015 (ES6)](https://babeljs.io/docs/en/learn)
+
+### #04 : 오브젝트의 랜덤워크
+ * [과제3에 대한 설문](https://forms.gle/hW9agxHhNWfsLKRw9)
+
+ * RandomWalk 예제 코드
+   * [RandomWalk 01](https://editor.p5js.org/picxenk@gmail.com/sketches/ejxF-rYAP)
+   * [RandomWalk 02](https://editor.p5js.org/picxenk@gmail.com/sketches/kl2xkLHQZ)
+   * [RandomWalk 03](https://editor.p5js.org/picxenk@gmail.com/sketches/apa77mb1z)
+ * Turtle을 빌려 쓴 랜덤워크
+   * [RandomWalk 04](https://editor.p5js.org/picxenk@gmail.com/sketches/ynTg0l7af)
+
+ * 읽기자료
+   * [당신이 제자리 걸음인 이유 (애자일 컨설팅)](http://egloos.zum.com/agile/v/5749946)
