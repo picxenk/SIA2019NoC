@@ -32,3 +32,12 @@
 
  * 읽기자료
    * [당신이 제자리 걸음인 이유 (애자일 컨설팅)](http://egloos.zum.com/agile/v/5749946)
+
+### #05 : 벡터의 개념, random / noise
+ * [RandomWalk 03](https://editor.p5js.org/picxenk@gmail.com/sketches/apa77mb1z)
+   * vector 개념을 적용하기
+ * 1차원 [random / noise 연습을 위한 예제](https://editor.p5js.org/picxenk@gmail.com/sketches/fze46hHr2)
+   * y축의 좌표를 random / noise로 변화주기
+ * 2차원 평면
+   * [빠른 random screen](https://editor.p5js.org/picxenk@gmail.com/sketches/pYTtNoFkZ)
+   * [느린 random screen](https://editor.p5js.org/picxenk@gmail.com/sketches/gxvVOj0ss)
