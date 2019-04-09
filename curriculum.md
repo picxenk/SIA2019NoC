@@ -41,3 +41,13 @@
  * 2차원 평면
    * [빠른 random screen](https://editor.p5js.org/picxenk@gmail.com/sketches/pYTtNoFkZ)
    * [느린 random screen](https://editor.p5js.org/picxenk@gmail.com/sketches/gxvVOj0ss)
+
+
+### #06 : 힘과 운동
+ * random과 noise에 의한 운동
+   * [RandomWalk 03](https://editor.p5js.org/picxenk@gmail.com/sketches/apa77mb1z)
+   * 위 코드를 기반으로 noise에 의한 운동을 만들기
+
+ * [Particle 시작예제](https://editor.p5js.org/picxenk@gmail.com/sketches/lcFAqov1d)
+ * [Particle + 중력(Gravity)](https://editor.p5js.org/picxenk@gmail.com/sketches/hi8yLzOjh)
+ * [Particle + 중력 + 바람(Wind)](https://editor.p5js.org/picxenk@gmail.com/sketches/pJVbXrqR3)
