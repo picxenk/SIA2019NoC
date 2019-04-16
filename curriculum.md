@@ -54,9 +54,9 @@
 
 ### #07 : 힘과 운동 2
  * [Real Gravity](https://editor.p5js.org/picxenk@gmail.com/sketches/8wPVCKsTN)
- * [Walker의 응용](https://editor.p5js.org/dj0603521@gmail.com/sketches/HEbtkm8D8)
+ * [Walker의 응용 - 최승희](https://editor.p5js.org/dj0603521@gmail.com/sketches/HEbtkm8D8)
  * 여러 개의 파티클
-   * [예제 1](https://editor.p5js.org/vvee2929@gmail.com/sketches/G9nlXeyWu)
-   * [예제 2](https://editor.p5js.org/qjawns94@gmail.com/sketches/iByZxsOz6)
- * [만유인력 응용](https://editor.p5js.org/midmost44@gmail.com/sketches/mtJBb8UwG)
- * [오브젝트 응용](https://editor.p5js.org/dkdlstb112@gmail.com/sketches/elGkr8_Xb)
+   * [예제 1 - 이혜원](https://editor.p5js.org/vvee2929@gmail.com/sketches/G9nlXeyWu)
+   * [예제 2 - 김범준](https://editor.p5js.org/qjawns94@gmail.com/sketches/iByZxsOz6)
+ * [만유인력 응용 - 조희진](https://editor.p5js.org/midmost44@gmail.com/sketches/mtJBb8UwG)
+ * [오브젝트 응용 - 김성백](https://editor.p5js.org/dkdlstb112@gmail.com/sketches/elGkr8_Xb)
