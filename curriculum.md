@@ -59,4 +59,8 @@
    * [예제 1 - 이혜원](https://editor.p5js.org/vvee2929@gmail.com/sketches/G9nlXeyWu)
    * [예제 2 - 김범준](https://editor.p5js.org/qjawns94@gmail.com/sketches/iByZxsOz6)
  * [만유인력 응용 - 조희진](https://editor.p5js.org/midmost44@gmail.com/sketches/mtJBb8UwG)
- * [오브젝트 응용 - 김성백](https://editor.p5js.org/dkdlstb112@gmail.com/sketches/elGkr8_Xb)
+
+
+ ### #08 : ParticleSystem 코드 읽기
+ * 친구코드 읽기 : [오브젝트 응용 - 김성백](https://editor.p5js.org/dkdlstb112@gmail.com/sketches/elGkr8_Xb)
+ * [ParticleSystem](https://editor.p5js.org/picxenk@gmail.com/sketches/wcwkuC_bMd) 코드 읽기
