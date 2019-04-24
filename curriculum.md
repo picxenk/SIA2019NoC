@@ -63,3 +63,4 @@
 ### #08 : ParticleSystem 코드 읽기
  * 친구코드 읽기 : [오브젝트 응용 - 김성백](https://editor.p5js.org/dkdlstb112@gmail.com/sketches/elGkr8_Xb)
  * [ParticleSystem](https://editor.p5js.org/picxenk@gmail.com/sketches/wcwkuC_bMd) 코드 읽기
+ * [ParticleSystem 응용 예제 : 멜로디 파티클](https://editor.p5js.org/picxenk@gmail.com/sketches/N6Sm6mJX0)
