@@ -64,3 +64,11 @@
  * 친구코드 읽기 : [오브젝트 응용 - 김성백](https://editor.p5js.org/dkdlstb112@gmail.com/sketches/elGkr8_Xb)
  * [ParticleSystem](https://editor.p5js.org/picxenk@gmail.com/sketches/wcwkuC_bMd) 코드 읽기
  * [ParticleSystem 응용 예제 : 멜로디 파티클](https://editor.p5js.org/picxenk@gmail.com/sketches/N6Sm6mJX0)
+
+ ### #09 : 버전관리 / 연습과 창작
+  * [Coding Train : Git and Github for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+  * [Github 개인페이지 템플릿](https://github.com/picxenk/PoeticCodeForNature)
+  * 연습/창작을 위한 기본 씨앗
+    * [RandomWalk 03](https://editor.p5js.org/picxenk@gmail.com/sketches/apa77mb1z)
+    * [Particle + 중력 + 바람(Wind)](https://editor.p5js.org/picxenk@gmail.com/sketches/pJVbXrqR3)
+    * [ParticleSystem](https://editor.p5js.org/picxenk@gmail.com/sketches/wcwkuC_bMd)
