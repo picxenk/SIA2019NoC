@@ -76,3 +76,10 @@
     * [Particle + 중력 + 바람(Wind)](https://editor.p5js.org/picxenk@gmail.com/sketches/pJVbXrqR3)
     * [ParticleSystem](https://editor.p5js.org/picxenk@gmail.com/sketches/wcwkuC_bMd)
     * [NoC_2_07 Attraction Many](https://editor.p5js.org/picxenk@gmail.com/sketches/ENk5WdK8o)
+
+### #10
+ * [Github 개인페이지 URL 기록하기](https://docs.google.com/spreadsheets/d/1DIQsy6G3GlN5a5Ihs9sQ9Eq-9rLavGyKCFArq8a3zq0/edit?usp=sharing)
+
+ * 친구 코드리뷰
+   * [불꽃놀이 - 신하은](https://docs.google.com/document/d/1GuTOvppj5a2Iwm3vp8vgSDVkvBDmaMn2Qv7bXniJv1E/edit)
+   * [팝콘/불꽃놀이2 - 고지윤](https://docs.google.com/document/d/1FvrL56SKh9-MS4hDQG7hfSOKmgRrSwyNPm7FTnJtYC8/edit)
