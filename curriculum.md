@@ -67,6 +67,8 @@
 
 ### #09 : 버전관리 / 연습과 창작
   * [Coding Train : Git and Github for Poets](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+    * [누구나 쉽게 이해할 수 있는 Git입문](https://backlog.com/git-tutorial/kr/)
+    * [Git 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
   * [Github 개인페이지 템플릿](https://github.com/picxenk/PoeticCodeForNature)
     * [개인페이지 URL 기록하기](https://docs.google.com/spreadsheets/d/1DIQsy6G3GlN5a5Ihs9sQ9Eq-9rLavGyKCFArq8a3zq0/edit?usp=sharing)
   * 연습/창작을 위한 기본 씨앗
