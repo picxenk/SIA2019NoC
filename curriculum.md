@@ -86,3 +86,8 @@
 
 ### #11 : 라이브러리 읽기
  * Box2D 예제 <https://github.com/nature-of-code/noc-examples-p5.js> 5장 참고
+
+ * Box2D 관련
+   * <https://box2d.org> Box2D 공식 웹사이트
+   * <https://github.com/flyover/box2d.js> - 가장 최신으로 업데이트되는 JavaScript/TypeScript 라이브러리
+   * <https://github.com/mvasilkov/box2d-html5> - NoC는 이걸 기반으로 하는거 같습니다.

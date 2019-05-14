@@ -153,6 +153,7 @@
   * [Kadenze : Nature of Code](https://www.kadenze.com/courses/the-nature-of-code-ii/sessions)의 세션3을 공부합니다.
   * 총 8개의 영상에 대해서 공부하고, 회고합니다.
   * 이번 영상은 조금 어렵게 느껴질 수 있는, 하지만 매우 유용한 '개념'이 담겨있습니다.
+    * 개념과 관련해서 어려운 용어들은 꼭 Nature of Code 책 6장 Autonomous Agents 부분을 참고하세요!
   * 이 '개념'을 이용해서 만들고 싶은 표현이나 응용 프로젝트를 스케치해봅니다.
   * 회고의 방식은 자유지만 아래의 내용들을 고려해서 작성해보세요.
     * 무엇을 했는지 / 어떤걸 시도했는지 (사실)
