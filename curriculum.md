@@ -91,3 +91,15 @@
    * <https://box2d.org> Box2D 공식 웹사이트
    * <https://github.com/flyover/box2d.js> - 가장 최신으로 업데이트되는 JavaScript/TypeScript 라이브러리
    * <https://github.com/mvasilkov/box2d-html5> - NoC는 이걸 기반으로 하는거 같습니다.
+
+### #12 : Autonomous Agents
+ * [Steering Behaviors For Autonomous Characters](http://www.red3d.com/cwr/steer/gdc99/)
+   * by Craig W. Reynolds <http://www.red3d.com/cwr/>
+ * [Turtles, Termites, and Traffic Jams](https://mitpress.mit.edu/books/turtles-termites-and-traffic-jams)
+   * by Michel Resnick
+ * [NetLogo](https://ccl.northwestern.edu/netlogo/)
+
+ * 코드리딩
+   * [NoC 6_01 Seek](https://github.com/nature-of-code/noc-examples-p5.js/tree/master/chp06_agents/NOC_6_01_Seek)
+   * [NoC 6_08 Separation and Seek](https://github.com/nature-of-code/noc-examples-p5.js/tree/master/chp06_agents/NOC_6_08_SeparationAndSeek)
+   * [NoC 6_04 FlowField](https://github.com/nature-of-code/noc-examples-p5.js/tree/master/chp06_agents/NOC_6_04_FlowField)
