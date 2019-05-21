@@ -170,3 +170,8 @@
     * 응용/표현 스케치 1개 이상 (직접 구현을 시도해봐도 좋습니다)
     * 각 회고마다 '회색지역'에 대한 명시가 있어야합니다.
     * 내용으로 평가하지 않습니다.
+
+-----
+
+### 기말작업
+ * [기말작업 저널링](https://drive.google.com/drive/folders/1-2W2DB9pjgTbOpTN1b8rxw0UPffRRWgx?usp=sharing)
