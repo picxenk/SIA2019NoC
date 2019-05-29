@@ -178,3 +178,12 @@
    * 본인의 이름으로 구글독스를 만들고, 앞으로 하는 작업에 대한 저널링을 남겨주세요.
  * [기말작업 Github Pages 리스트](https://docs.google.com/spreadsheets/d/1DIQsy6G3GlN5a5Ihs9sQ9Eq-9rLavGyKCFArq8a3zq0/edit#gid=0)
    * 아직 링크가 안 만들어진 사람은 꼭 주변의 도움을 받아 Github Pages를 만듭니다.
+
+
+ * 기말 창작을 위한 씨앗
+   * RandomWalk 03
+   * Particle + Gravity + Wind
+   * ParticleSystem (Fireworks)
+   * Attraction Many
+   * Box2D
+   * Autonomous Agents
